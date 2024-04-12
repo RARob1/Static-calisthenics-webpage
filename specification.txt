@@ -1,0 +1,3 @@
+HTML tags: h1, h2, p, img, video, table, th, td, tr, div
+css properties: font-family, font-size, text-align, border, background-color
+Iused bootstrap for buttons and javascript for hover over video.
